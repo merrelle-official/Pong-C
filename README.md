@@ -20,7 +20,7 @@ After the goal, the ball continues its movement along the already planned trajec
 The whole game is presented in step-by-step mode using only the standard library "stdio.h"
 The project does not use additional functions, all the code is described in main().
 There are no duplicate elements.
-To run the program, go to the src folder and run "ping.exe".
+To run the program, go to the src folder and run "pong.exe".
 
 P.S.
 This is my first educational project in C. 
