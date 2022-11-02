@@ -2,12 +2,15 @@
 Ping pong console application on C
 
 Controls:
+
     Left racket:
         "A" - up
         "Z" - down
+        
     Right racket:
         "K" - up
         "M" - down
+        
     Other:
         "Enter" - next step
         "Q" - quit the game
